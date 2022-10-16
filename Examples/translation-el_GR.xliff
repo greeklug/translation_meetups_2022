@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="19704" original="greeklug.xml" source-language="el" target-language="el-GR" datatype="plaintext">
+    <body>
+      <trans-unit id="100" maxwidth="40" size-unit="char">
+        <source>text 100</source>
+        <target state="translated">μετάφραση 100</target>
+        <note>Context</note>
+      </trans-unit>
+      <trans-unit id="101" approved="yes">
+        <source>text 101</source>
+        <target state="needs-translation"></target>
+        <note>Context 101</note>
+      </trans-unit>
+      <trans-unit id="102">
+        <source>text 102</source>
+        <target>μετάφραση 102</target>
+      </trans-unit>
+      <trans-unit id="103" translate="no">
+        <source>text 103</source>
+        <target state="final">μετάφραση 103</target>
+        <note>Context 103</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

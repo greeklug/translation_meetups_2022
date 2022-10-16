@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<GreekLUGApp>
+	<Native-Langue name="Greek" filename="greek.xml" >
+		<Menu>
+			<!-- Menu Entries -->
+			<Entries>
+				<Item menuId="file" name="Αρχείο"/>
+				<Item menuId="edit" name="Επεξεργασία"/>
+				<Item menuId="search" name="Εύρεση"/>
+				<Item menuId="view" name="Προβολή"/>
+				<Item menuId="language" name="Γλώσσα"/>
+				<Item menuId="settings" name="Ρυθμίσεις"/>
+			</Entries>
+		</Menu>
+    </Native-Langue>
+</GreekLUGApp>					
